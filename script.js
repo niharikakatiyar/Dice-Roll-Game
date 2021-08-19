@@ -16,7 +16,7 @@ document.querySelectorAll
 
 if(firstRandomNum > secondRandomNum) {
 document.querySelector
-('h1').innerHTML = 'The Winner is User 1';
+('h1').innerHTML = 'The Winner is Player 1';
 
 }else if (firstRandomNum < secondRandomNum){
 
